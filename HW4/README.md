@@ -28,3 +28,18 @@ Output:
 讓老師先輸入有N位學生  
 再依序輸入學生成績  
 請輸出四個成績等第的人數及bar chart  
+
+Example:  
+Input:  
+Number of Students: 5  
+Score #1 : 90  
+Score #2 : 97  
+Score #3 : 84  
+Score #4 : 30  
+Score #5 : 72  
+Output:  
+Grade    Frequency     Bar Chart  
+    A            2     **  
+    B            1     *  
+    C            1     *  
+    D            1     *  

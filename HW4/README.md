@@ -5,20 +5,24 @@
 輸出 餘0, 餘1 ...., 餘D-1的個數  
   
 Example:  
-Input:      Output:  
-5           0 0 0 1 2  
+Input:  
+5      
 9  
 4  
 3  
 -1  
-  
-Input:      Output:  
-3           1 1 1  
+Output:  
+0 0 0 1 2   
+
+Input:      
+3  
 2  
 1  
 3  
 -1  
-  
+Output:  
+0 0 0 1 2  
+
 # HW4_2
 題目:  
 讓老師先輸入有N位學生  

@@ -1,14 +1,17 @@
 #====================================================
 #Library
+
 import random as rd
 
 #====================================================
 #Variables
+
 ans = str
 user = str
 
 #====================================================
 #Functions
+
 def generate_ans():
     _ans = []
     idx = 0
@@ -69,7 +72,7 @@ while True:
         if valid(user):
             break
         else:
-            print("Input invalid!:")
+            print("Input invalid!")
     if check(ans, str(user)):
         break
     
